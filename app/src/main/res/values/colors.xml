@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bai">#fcf5f8</color>
+    <color name="hong">#ef0b2d</color>
+    <color name="lan">#0aa8f7</color>
+    <color name="hei">#0a0909</color>
+
+</resources>

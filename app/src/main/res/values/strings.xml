@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">1220_rk</string>
+    <string name="hello">Hello World, XListViewActivity!</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="app_homea">首页</string>
+    <string name="app_xsp">小视屏</string>
+    <string name="app_my">我的</string>
+
+
+    <string name="app_zy">首页</string>
+    <string name="app_gh">电影</string>
+    <string name="app_ys">影院</string>
+    <string name="app_sj">演出</string>
+    <string name="app_gr">我的</string>
+</resources>
